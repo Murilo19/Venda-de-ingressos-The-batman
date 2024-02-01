@@ -223,7 +223,7 @@ nav{
 
 #trailer-container {
 width: 150%;
-height: 200px;
+height: 500px;
 display: flex;
 flex-direction: column;
 
@@ -236,7 +236,7 @@ flex-direction: column;
 }
 
 .trailer{
-    width: 90%;
+    width: 85%;
 }
 
 #sinopse{
